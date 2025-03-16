@@ -37,14 +37,14 @@ function sortearAmigo() {
         return;
     }
 
-    let nomeAleatorio = Math.floor(Math.random() * nomes.length);
-    let amigoSorteado = nomes[nomeAleatorio];
+    let indice = Math.floor(Math.random() * nomes.length);
+    let sorteado = nomes[indice];
 
     const ul = document.getElementById('resultado');
     ul.innerHTML = '';
 
     const li = document.createElement('li');
-    li.textContent = `Seu amigo secreto sorteado é: ${amigoSorteado}`;
+    li.textContent = `Seu amigo secreto sorteado é: ${sorteado}`;
     ul.appendChild(li);
 
     nomes = [];
