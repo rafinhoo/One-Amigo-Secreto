@@ -30,5 +30,5 @@ Este projeto foi desenvolvido como parte do desafio da **Oracle ONE by Alura**. 
 
 ![AMIGO SECRETO BY ONE](https://github.com/user-attachments/assets/f12baa35-0ede-4d32-8d33-36d04130a0ce)
 ---
-Desenvolvido por [Rafael]([https://github.com/seu-usuario](https://github.com/rafinhoo)).
+Desenvolvido por [Rafael](https://github.com/rafinhoo)
 
