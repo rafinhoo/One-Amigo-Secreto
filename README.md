@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Este projeto foi desenvolvido como parte do desafio da **Oracle ONE by Alura**. Trata-se de um aplicativo web simples para organizar um **Amigo Secreto**, permitindo adicionar participantes e realizar o sorteio de forma automática.
+Este projeto foi desenvolvido como parte do desafio da **Oracle ONE by Alura**. Trata-se de um aplicativo web simples para realizar um **Amigo Secreto**, permitindo adicionar participantes e realizar o sorteio de forma automática.
 
 ## Tecnologias Utilizadas
 
